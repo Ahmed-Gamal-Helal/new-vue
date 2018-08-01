@@ -1,0 +1,44 @@
+<!-- الطلب والدفع -->
+<template>
+<div class="page">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="left"></div>
+      <div class="title">Sub Navbar</div>
+      <div class="right"></div>
+      <div class="subnavbar">
+        <div class="subnavbar-inner">
+          <div class="segmented segmented-raised">
+            <a class="button tab-link tab-link-active" href="#tab1">Tab 1</a>
+            <a class="button tab-link" href="#tab2">Tab 2</a>
+            <a class="button tab-link" href="#tab3">Tab 3</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="view">
+  <div class="page-content">
+    <div class="tabs">
+      <div class="tab tab-active" id="tab1">
+        <div class="block">
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+      </div>
+      <div class="tab" id="tab2">
+        <div class="block">
+          <p>Donec iaculis posuere massa sed dignissim...</p>
+        </div>
+      </div>
+      <div class="tab" id="tab3">
+        <div class="block">
+          <p>Etiam non interdum erat. Curabitur erat lacus...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>
+</template>
+<script>
+    export default {}
+</script>
