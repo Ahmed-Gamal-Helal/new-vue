@@ -6,7 +6,7 @@
       <div class="row professional-cam">
         <div class="col s6">
           <div class="repeated-product mt-2">
-            <a href="#">
+            <a href="/product/" class="move-product" product-id="13">
               <img class="responsive-img removing-pic" src="../images/006.png" alt="">
               <h6 class="digital-cam">كاميرا SLR الرقمية</h6>
               <span class="discount" id="sting">200 ر.س</span>

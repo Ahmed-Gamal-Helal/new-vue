@@ -1,5 +1,5 @@
 import MyHeaderPage from './pages/myheader.vue';
-import Myfooter from './pages/Myfooter.vue';
+// import Myfooter from './pages/Myfooter.vue';
 
 
 // var intro = localStorage.getItem('intro');
@@ -27,8 +27,10 @@ import RegisterPage from './pages/register.vue';
 import PhoneNumPage from './pages/phone-number.vue';
 import PhoneConfirmPage from './pages/phone-confirm.vue';
 import OffersPage from './pages/offers.vue';
+import PayingPage from './pages/paying-methods.vue';
 
-import FormPage from './pages/form.vue';
+import ContactUsPage from './pages/contact-us.vue';
+
 import DynamicRoutePage from './pages/dynamic-route.vue';
 import NotFoundPage from './pages/not-found.vue';
 
@@ -42,10 +44,6 @@ export default [
   {
     path: '/myheader/',
     component: MyHeaderPage,
-  },
-  {
-    path: '/Myfooter/',
-    component: Myfooter,
   },
   {
     path: '/panel-right/',
@@ -130,8 +128,12 @@ export default [
     component: OffersPage,
   },
   {
-    path: '/form/',
-    component: FormPage,
+    path: '/paying-methods/',
+    component: PayingPage,
+  },
+  {
+    path: '/contact-us/',
+    component: ContactUsPage,
   },
   {
     path: '/dynamic-route/blog/:blogId/post/:postId/',

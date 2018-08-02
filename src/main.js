@@ -26,7 +26,7 @@ import AppStyles from './css/app.css';
 
 // Import App Component
 import App from './app';
-import Myfooter from './pages/Myfooter';
+// import Myfooter from './pages/Myfooter';
 // Init F7 Vue Plugin
 Framework7.use(Framework7Vue)
 // Vue.use(VueRouter)
@@ -34,7 +34,7 @@ Framework7.use(Framework7Vue)
 new Vue({
   el: '#app',
   template: '<app/>',
-  
+
   // Register App Component
   components: {
     app: App

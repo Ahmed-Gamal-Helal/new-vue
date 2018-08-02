@@ -50,10 +50,10 @@
             </div>
           </div>
         </div>
-        <button class="add-basket waves-effect"><i class="flaticon-shopping-cart-1"></i>
+        <a href="/paying-methods/" class="add-basket waves-effect"><i class="flaticon-shopping-cart-1"></i>
           <!-- <span>أضف إلى السله</span> -->
           <span>اتمام عملية الشراء</span>
-        </button>
+        </a>
       </div>
     </div>
   </f7-page>

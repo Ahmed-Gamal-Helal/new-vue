@@ -3,12 +3,12 @@
         <f7-navbar title="تأكيد رقم الجوال" back-link="Back" no-shadow no-hairline>
             <img src="../images/005.png" alt="">
         </f7-navbar>
-        <div class="format intro-steps">
+        <div class="format intro-steps pt-4">
             <div class="container">
-                
+
                 <!-- تسجيل الدخول -->
                 <form action="">
-                    <p class="center-align code">سوف يصلك كود تفعيل على الجوال 
+                    <p class="center-align code">سوف يصلك كود تفعيل على الجوال
                         برجاء وضع الكود فى الخانه</p>
                     <div class="form-group mt-2">
                         <input type="number" placeholder="ضع كود التفعيل هنا">

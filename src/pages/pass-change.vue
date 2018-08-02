@@ -3,7 +3,7 @@
         <f7-navbar title="تغيير كلمة المرور" back-link="Back" no-shadow no-hairline>
             <img src="../images/005.png" alt="">
         </f7-navbar>
-        <div class="format intro-steps">
+        <div class="format intro-steps pt-4">
             <div class="container">
                 <!-- تسجيل الدخول -->
                 <form action="">

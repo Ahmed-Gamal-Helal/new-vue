@@ -57,10 +57,10 @@
             <li><i class="flaticon-record-button"></i><span>بانوراما والمزيد</span></li>
             <li><i class="flaticon-record-button"></i><span>تقنية البلوتوث</span></li>
           </ul>
-          <!-- <p>عفوآ المنتج غير متوفر الان 
-            اضغط على الجرس لاعلامك عندما يتوفر</p> -->
+          <p>عفوآ المنتج غير متوفر الان
+            اضغط على الجرس لاعلامك عندما يتوفر</p>
           <div class="notification center-align">
-            <a href="#"><img src="../images/016.png" alt=""></a>
+            <a href="#"><img src="../images/016.png" alt="">vv</a>
           </div>
         </div>
         <img class="responsive-img" style='height: 50px' src="../images/015.png" alt="">

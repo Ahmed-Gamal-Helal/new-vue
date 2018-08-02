@@ -12,6 +12,7 @@
       <f7-list-item link="/order-pay/" title="الطلب والدفع" view="#main-view" panel-close></f7-list-item>
       <f7-list-item link="/profile/" title="الصفحه الشخصيه" view="#main-view" panel-close></f7-list-item>
       <f7-list-item link="/orders/" title="طلباتى" view="#main-view" panel-close></f7-list-item>
+      <f7-list-item link="/contact-us/" title="تواصل معنا" view="#main-view" panel-close></f7-list-item>
       <f7-list-item link="/about/" title="الشروط والأحكام" view="#main-view" panel-close></f7-list-item>
       <f7-list-item><f7-button raised login-screen-open="#login-screen" panel-close>تسجيل الدخول</f7-button></f7-list-item>
       <f7-list-item link="/logout/" title="تسجيل الخروج" view="#main-view" panel-close></f7-list-item>
